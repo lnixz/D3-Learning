@@ -1,0 +1,26 @@
+{
+  "name": "d3-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXinL-CN/D3-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZXinL-CN/D3-Learning/issues"
+  },
+  "homepage": "https://github.com/ZXinL-CN/D3-Learning#readme",
+  "dependencies": {
+    "@types/d3": "^7.4.0",
+    "d3": "^7.4.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}
